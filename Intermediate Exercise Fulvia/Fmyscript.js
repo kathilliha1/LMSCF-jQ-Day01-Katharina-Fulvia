@@ -24,7 +24,7 @@ for (i = 0; i < 5; i++) {
 
 $("form > input").val("Search for..");
 
-$("footer > p > a").attr("href","www.codefactory.wien");
+$("footer > p > a").attr("href","http://www.codefactory.wien");
 
 
 
