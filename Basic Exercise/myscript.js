@@ -9,10 +9,10 @@
 // $("*").css("background-color", "yellow");
 
 // all p elements
-
+$("p").css("background-color","green");
 
 // the p element with an ID of "intro"
-
+$("#intro").css("background-color", "yellow");
 
 // all elements with a class of "note"
 
