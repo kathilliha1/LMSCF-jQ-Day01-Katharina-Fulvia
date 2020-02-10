@@ -39,5 +39,5 @@ $(".date").remove();
 
 $("#sidebar > ul:first").append("<li>New Templates</li>","<li>Order Template</li>","<li>Contact Us</li>");
 
-$("#sidebar > p:first").remove();
-$("#sidebar > p:first").prepend("When someone says: 'I want a programming language in which I need only to say \'what I wish, and done\', give him a lollipop.<br>");
+// $("#sidebar > p:first").remove();
+$("#sidebar > p:first").text("When someone says: 'I want a programming language in which I need only to say \'what I wish, and done\', give him a lollipop.");
